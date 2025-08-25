@@ -1,4 +1,4 @@
-- Hey, I'm Fantom, also known as Emanuel.
+- Hey, I'm Fantom
 - Currently a first year graduate on Computer Sciences (Grado en Ingenieria Informatica) in the Escuela Politecnica Superior UAH (EPS UAH).
 - Python and Java newbie.
 - This account was made for future college projects, potential job and perhaps side projects.
