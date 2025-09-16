@@ -23,7 +23,10 @@
 [![ROSTUD](https://skillicons.dev/icons?i=robloxstudio&theme=dark)](https://create.roblox.com/)
 [![JS](https://skillicons.dev/icons?i=js&theme=dark)](https://www.w3schools.com/js/)
 
-<h3>Hope you like any of my projects! (if I have any)</h3>
+<h3>Hope you like any of my projects! (if I have any, I'll post them right below)</h3>
+
+<a href="https://runeforge.dev/users/Fantom"><img title="Runeforge Projects" alt="Runeforge Projects" src="images/rf_ico.png" size="48" width="48"></a>
+
 <h3>Also, if you want, you can support me with the small amount of 1$! Though there's no need to ^-^</h3>
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V61K9I9A)
