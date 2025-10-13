@@ -1,6 +1,6 @@
 <h1>:hibiscus:Welcome to my profile!:hibiscus:</h1>
 <ul>
-  <li>Currently a first year graduate on <a href="https://www.uah.es/es/estudios/Grado-en-Ingenieria-Informatica/">Computer Sciences</a> at the <a href="https://escuelapolitecnica.uah.es/es/">UAH's Polytechnic School</a></li>
+  <li>Currently a second year graduate on <a href="https://www.uah.es/es/estudios/Grado-en-Ingenieria-Informatica/">Computer Sciences</a> at the <a href="https://escuelapolitecnica.uah.es/es/">UAH's Polytechnic School</a></li>
   <li>Interested in game dev, though no progress on it, I'm too uninspired for now. I'm not like others, sorry.</li>
   <li>Uni is my worst enemy!</li>
 </ul>
