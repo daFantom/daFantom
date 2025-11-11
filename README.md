@@ -8,7 +8,9 @@
 
   [![Python](https://skillicons.dev/icons?i=py&theme=dark)](https://www.python.org/)
   [![R](https://skillicons.dev/icons?i=r&theme=dark)](https://posit.co/products/open-source/rstudio/?sid=1)
-  [![Java](https://skillicons.dev/icons?i=java&theme=dark)](https://www.java.com/es/) [![HTML](https://skillicons.dev/icons?i="html")](https://www.w3schools.com/tags/)
+  [![Java](https://skillicons.dev/icons?i=java&theme=dark)](https://www.java.com/es/) 
+  [![C++](https://skillicons.dev/icons?i=cpp&theme=dark)](https://www.w3schools.com/cpp/cpp_syntax.asp)
+  [![C](https://skillicons.dev/icons?i=c&theme=dark)](https://www.w3schools.com/c/c_syntax.asp)
 
 <h2>IDE's I use:</h2>
 
@@ -17,7 +19,6 @@
 
 <h2>Programming Languages I'm interested in:</h2>
 
-[![C++](https://skillicons.dev/icons?i=cpp&theme=dark)](https://www.w3schools.com/cpp/cpp_syntax.asp)
 [![SQL](https://skillicons.dev/icons?i=mysql&theme=dark)](https://www.mysql.com/)
 [![LUA](https://skillicons.dev/icons?i=lua&theme=dark)](https://www.lua.org/about.html)
 [![ROSTUD](https://skillicons.dev/icons?i=robloxstudio&theme=dark)](https://create.roblox.com/)
