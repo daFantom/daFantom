@@ -1,8 +1,7 @@
-<h1>:hibiscus:Welcome to my profile!:hibiscus:</h1>
+<h1>Welcome to my profile</h1>
 <ul>
   <li>Currently a second year graduate on <a href="https://www.uah.es/es/estudios/Grado-en-Ingenieria-Informatica/">Computer Sciences</a> at the <a href="https://escuelapolitecnica.uah.es/es/">UAH's Polytechnic School</a></li>
   <li>Interested in game dev, though no progress on it, I'm too uninspired for now. I'm not like others, sorry.</li>
-  <li>Uni is my worst enemy!</li>
 </ul>
 <h2>Programming Languages I know yet may be a bit rusty with:</h2>
 
@@ -17,6 +16,16 @@
 [![PyCharm](https://skillicons.dev/icons?i=pycharm&theme=dark)](https://www.jetbrains.com/pycharm/)
 [![VSCode](https://skillicons.dev/icons?i=vscode&theme=dark)](https://code.visualstudio.com/)
 
+<h2>Other tools:</h2>
+
+[![NeoVim](https://skillicons.dev/icons?i=neovim&theme=dark)](https://neovim.io/)
+[![Postgres](https://skillicons.dev/icons?i=postgres&theme=dark)](https://www.postgresql.org/)
+[![Ubuntu](https://skillicons.dev/icons?i=ubuntu&theme=dark)](https://ubuntu.com/download)
+[![Git](https://skillicons.dev/icons?i=git&theme=dark)](https://git-scm.com/)
+[![Programming bible](https://skillicons.dev/icons?i=stackoverflow&theme=dark)](https://stackoverflow.com/questions)
+
+
+
 <h2>Programming Languages I'm interested in:</h2>
 
 [![SQL](https://skillicons.dev/icons?i=mysql&theme=dark)](https://www.mysql.com/)
@@ -24,7 +33,7 @@
 [![ROSTUD](https://skillicons.dev/icons?i=robloxstudio&theme=dark)](https://create.roblox.com/)
 [![JS](https://skillicons.dev/icons?i=js&theme=dark)](https://www.w3schools.com/js/)
 
-<h3>Hope you like any of my projects! (if I have any, I'll post them right below)</h3>
+<h3>Hope you like any of my personal projects! (if I have any, I'll post them right below)</h3>
 
 <a href="https://runeforge.dev/users/Fantom"><img title="Runeforge Projects" alt="Runeforge Projects" src="images/rf_ico.png" size="48" width="48"></a>
 
