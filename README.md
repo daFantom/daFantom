@@ -20,7 +20,6 @@
 
 [![NeoVim](https://skillicons.dev/icons?i=neovim&theme=dark)](https://neovim.io/)
 [![Postgres](https://skillicons.dev/icons?i=postgres&theme=dark)](https://www.postgresql.org/)
-[![Ubuntu](https://skillicons.dev/icons?i=ubuntu&theme=dark)](https://ubuntu.com/download)
 [![Git](https://skillicons.dev/icons?i=git&theme=dark)](https://git-scm.com/)
 [![Programming bible](https://skillicons.dev/icons?i=stackoverflow&theme=dark)](https://stackoverflow.com/questions)
 
